@@ -1,0 +1,1571 @@
+element-styles {
+   display: inline-block;
+   width: 1920px;
+}
+
+.main-content-container {
+   box-sizing: border-box;
+   display: flex;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: flex-start;
+   min-width: 1920px;
+   background: #f7fafc;
+}
+
+.financial-dashboard-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: stretch;
+   justify-content: flex-start;
+   max-width: initial;
+   height: 414px;
+   padding: 44px 19px 48px;
+   background: url("blob:https://app.kombai.com/b5a296ea-89aa-4399-a596-8480ffc5cb2e")
+   50% / cover no-repeat;
+}
+
+.page-section-divider {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   width: 14.35%;
+   padding-bottom: 278px;
+}
+
+.header-subtitle {
+   padding: 0;
+   margin: 0;
+   font: 400 12px Helvetica;
+   color: white;
+}
+
+.invoice-heading {
+   padding: 0;
+   margin: 0;
+   margin-top: 5.5px;
+   font: 400 14px Helvetica;
+   color: white;
+}
+
+.financial-summary-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+   width: 65.67%;
+   padding-top: 82px;
+   padding-right: 15px;
+   padding-left: 15px;
+}
+
+.payment-card-details-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 1 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: flex-start;
+   max-width: initial;
+   height: 240px;
+   padding: 22px 26px 37px 30px;
+   background: url("blob:https://app.kombai.com/b5159113-8ff3-4479-ba8d-4956fc218a9a")
+   50% / cover no-repeat;
+}
+
+.credit-card-image {
+   box-sizing: border-box;
+   display: block;
+   flex: 0 0 auto;
+   align-self: flex-end;
+   width: 49px;
+   max-width: initial;
+   height: 33px;
+}
+
+.payment-details-section {
+   flex: 0 0 auto;
+   margin-top: 68px;
+}
+
+.card-number-text-style {
+   padding: 0;
+   margin: 0;
+   font: 400 24px Helvetica;
+   color: white;
+}
+
+.payment-details-container1 {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+   margin-top: 13px;
+}
+
+.payment-details-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: center;
+}
+
+.expiration-info {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   font: 400 10px Helvetica;
+   color: white;
+}
+
+.expiration-info-paragraph {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   margin-top: -0.2px;
+   font: 400 14px Helvetica;
+   color: white;
+}
+
+.card-details-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: center;
+   margin-left: 20.5px;
+}
+
+.financial-summary-widget {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: flex-start;
+   justify-content: flex-start;
+   margin-left: 24px;
+}
+
+.salary-card {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: center;
+   justify-content: flex-start;
+   padding: 30px 22px 25.5px;
+   background: white;
+   border-radius: 20px;
+   box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.05);
+}
+
+.salary-card3 {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   width: 64px;
+   height: 64px;
+   background: #3182ce;
+   border-radius: 8px;
+   box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+}
+
+.svg-container {
+   display: flex;
+   flex: 0 0 auto;
+   width: 26px;
+   height: 26px;
+   color: #ffffff;
+}
+
+.salary-card2 {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: center;
+   justify-content: flex-start;
+   margin-top: 22px;
+}
+
+.salary-card1 {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: flex-start;
+}
+
+.salary-info-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: center;
+   justify-content: flex-start;
+}
+
+.salary-text-display-style {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   font: 400 18px Helvetica;
+   color: #2d3748;
+}
+
+.interactive-text-with-helvetica-style {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   margin-top: 3.5px;
+   font: 400 12px Helvetica;
+   color: #a0aec0;
+}
+
+.salary-block {
+   flex: 0 0 auto;
+   margin-top: 12.5px;
+   margin-right: 11px;
+   margin-left: 11px;
+}
+
+.horizontal-line-display-style {
+   box-sizing: border-box;
+   display: block;
+   width: 174px;
+   max-width: initial;
+   height: 2px;
+}
+
+.salary-increase-text-style {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   margin-top: 12.5px;
+   font: 400 18px Helvetica;
+   color: #2d3748;
+}
+
+.financial-summary-card {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: center;
+   justify-content: flex-start;
+   padding: 30px 33px 25.5px;
+   margin-left: 24px;
+   background: white;
+   border-radius: 20px;
+   box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.05);
+}
+
+.blue-box-widget {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   width: 64px;
+   height: 64px;
+   padding-left: 6.25px;
+   background: #3182ce;
+   border-radius: 8px;
+   box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+}
+
+.svg-container1 {
+   display: flex;
+   flex: 0 0 auto;
+   width: 20px;
+   height: 20px;
+   color: #ffffff;
+}
+
+.freelance-info-block {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   width: 112px;
+   padding: 0;
+   margin: 0;
+   margin-top: 3.5px;
+   font: 400 12px Helvetica;
+   color: #a0aec0;
+   text-align: center;
+}
+
+.financial-summary-container1 {
+   flex: 0 0 auto;
+   margin-top: 12.5px;
+}
+
+.interactive-panel {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   gap: 18px;
+   align-items: stretch;
+   justify-content: flex-start;
+   width: 19.98%;
+   height: 322px;
+   padding-right: 15px;
+   padding-bottom: 283px;
+   padding-left: 15px;
+}
+
+.card-container-with-text {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+   width: 199px;
+   overflow: hidden;
+   background: white;
+   border: 0.5px solid #e2e8f0;
+   border-radius: 8px;
+}
+
+.center-content-with-svg {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   align-self: stretch;
+   justify-content: center;
+   width: 38px;
+   overflow: hidden;
+}
+
+.svg-container2 {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   width: 27px;
+   height: 20px;
+   color: #2d3748;
+}
+
+.vertical-centered-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: flex-start;
+   justify-content: center;
+   overflow: hidden;
+}
+
+.text-container {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   width: 64px;
+   height: 18px;
+   padding: 0;
+   margin: 0;
+   font: 400 12px Helvetica;
+   color: #a0aec0;
+   text-align: left;
+}
+
+.hidden-text-container {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   height: 0px;
+   overflow: hidden;
+}
+
+.login-button-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   gap: 4px;
+   align-items: center;
+   justify-content: flex-start;
+   width: 58px;
+   overflow: hidden;
+}
+
+.svg-container3 {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   width: 12px;
+   height: 12px;
+   overflow: hidden;
+   color: #ffffff;
+}
+
+.login-button-text-style {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   width: 42px;
+   height: 12px;
+   padding: 0;
+   margin: 0;
+   font: 400 12px Helvetica;
+   color: white;
+}
+
+.svg-container4 {
+   display: flex;
+   flex: 0 0 auto;
+   width: 12px;
+   height: 12px;
+   color: #ffffff;
+}
+
+.account-dashboard-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   gap: 19px;
+   align-items: flex-start;
+   justify-content: flex-start;
+   padding-right: 20px;
+   padding-left: 20px;
+   margin-top: -288px;
+}
+
+.dashboard-panel-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   gap: 30px;
+   align-items: stretch;
+   justify-content: flex-start;
+   width: 265px;
+   padding: 11px 24px 17px 21.5px;
+   background: white;
+   border-radius: 20px;
+   box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.05);
+}
+
+.control-panel-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+   height: 54px;
+   padding-right: 16px;
+   padding-left: 16px;
+   background: white;
+   border-radius: 8px;
+   box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.05);
+}
+
+.control-panel-header {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   height: 30px;
+   padding-right: 7.5px;
+   padding-left: 7.5px;
+   background: #3182ce;
+   border-radius: 8px;
+}
+
+.svg-container5 {
+   display: flex;
+   flex: 0 0 auto;
+   width: 15px;
+   height: 15px;
+   color: #ffffff;
+}
+
+.control-panel-heading {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   margin-left: 11px;
+   font: 400 12px Helvetica;
+   color: #2d3748;
+}
+
+.section-title-container1 {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   gap: 36px;
+   align-items: stretch;
+   justify-content: center;
+   padding-right: 23.5px;
+   padding-left: 23.5px;
+   margin-top: 18px;
+}
+
+.section-title-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+}
+
+.svg-container6 {
+   display: flex;
+   flex: 0 0 auto;
+   width: 15px;
+   height: 15px;
+   color: #3182ce;
+}
+
+.section-title-text-styler {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   margin-left: 18.5px;
+   font: 400 12px Helvetica;
+   color: #a0aec0;
+   white-space: pre-wrap;
+}
+
+.account-pages-title-text-style {
+   flex: 0 0 auto;
+   align-self: center;
+   padding: 0;
+   margin: 0;
+   margin-left: -47px;
+   font: 400 12px Helvetica;
+   color: #2d3748;
+}
+
+.section-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   gap: 36px;
+   align-items: stretch;
+   justify-content: center;
+   padding-right: 23.5px;
+   padding-left: 23.5px;
+}
+
+.account-help-section {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: flex-start;
+   padding-right: 15px;
+   padding-left: 18.5px;
+   margin-top: 39px;
+}
+
+.help-section-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: flex-start;
+   padding-right: 10px;
+   padding-left: 11px;
+}
+
+.help-section {
+   display: block;
+   flex: 0 0 auto;
+   max-width: initial;
+   height: 117px;
+}
+
+.help-text-display-style {
+   flex: 0 0 auto;
+   align-self: center;
+   padding: 0;
+   margin: 0;
+   margin-top: 18px;
+   font: 400 14px Helvetica;
+   color: #2d3748;
+}
+
+.header-bar {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   height: 35px;
+   padding-right: 8px;
+   padding-left: 8px;
+   margin-top: 38px;
+   background: #3182ce;
+   border-radius: 8px;
+}
+
+.documentation-container1 {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   overflow: hidden;
+}
+
+.documentation-header-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+   height: 24px;
+}
+
+.documentation-title {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   width: 88px;
+   height: 15px;
+   padding: 0;
+   margin: 0;
+   font: 400 10px/10px Helvetica;
+   color: white;
+}
+
+.documentation-container {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   height: 0px;
+}
+
+.payment-method-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   align-self: center;
+   justify-content: flex-start;
+   padding-top: 24px;
+   padding-right: 24.5px;
+   padding-left: 23px;
+   background: white;
+   border-radius: 20px;
+   box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.05);
+}
+
+.payment-method-section {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   gap: 8px;
+   align-items: flex-start;
+   justify-content: space-between;
+}
+
+.payment-method-label {
+   flex: 0 0 auto;
+   padding: 0;
+   padding-bottom: 15.5px;
+   margin: 0;
+   font: 400 14px Helvetica;
+   color: #2d3748;
+}
+
+.payment-method-button-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   width: 135px;
+   height: 35px;
+   padding-right: 8px;
+   padding-left: 8px;
+   background: #2d3748;
+   border-radius: 8px;
+}
+
+.header-text-widget {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   width: 89px;
+   height: 15px;
+   padding: 0;
+   margin: 0;
+   font: 400 10px/10px Helvetica;
+   color: white;
+   text-align: center;
+}
+
+.payment-card-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: stretch;
+   justify-content: flex-start;
+   height: 65px;
+   margin-top: 24px;
+}
+
+.card-with-number-digits {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+   width: 459px;
+   padding-right: 20px;
+   padding-left: 20px;
+   overflow: hidden;
+   background: white;
+   border: 1px solid #e2e8f0;
+   border-radius: 8px;
+}
+
+.svg-container7 {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   width: 21px;
+   height: 13.5px;
+}
+
+.card-number-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: flex-start;
+   justify-content: center;
+   width: 387px;
+   padding-left: 15px;
+   overflow: hidden;
+}
+
+.card-number-text-style1 {
+   box-sizing: border-box;
+   flex: 0 0 auto;
+   width: 143px;
+   height: 19.5px;
+   padding: 0;
+   margin: 0;
+   font: 400 14px Helvetica;
+   color: #a0aec0;
+}
+
+.svg-container8 {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   width: 12px;
+   height: 12px;
+   overflow: hidden;
+   color: #2d3748;
+}
+
+.credit-card-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+   width: 459px;
+   padding-right: 20px;
+   padding-left: 20px;
+   margin-left: 24.5px;
+   overflow: hidden;
+   background: white;
+   border: 1px solid #e2e8f0;
+   border-radius: 8px;
+}
+
+.svg-container9 {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   width: 24.5px;
+   height: 8.5px;
+   color: #3182ce;
+}
+
+.invoice-card-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 1 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: center;
+   padding-right: 19.5px;
+   padding-left: 21.5px;
+   background: white;
+   border-radius: 20px;
+   box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.05);
+}
+
+.account-summary-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   gap: 8px;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.account-button-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   width: 111px;
+   height: 35px;
+   padding-right: 8px;
+   padding-left: 8px;
+   border: 1px solid #3182ce;
+   border-radius: 8px;
+}
+
+.blue-text-small-sans-serif {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   font: 400 8px Helvetica;
+   color: #3182ce;
+}
+
+.invoice-details-container3 {
+   flex: 0 0 auto;
+   margin-top: 22.5px;
+}
+
+.invoice-details-container {
+   box-sizing: border-box;
+   display: flex;
+   flex-direction: row;
+   gap: 8px;
+   align-items: center;
+   justify-content: space-between;
+   width: 100%;
+}
+
+.invoice-details-container1 {
+   margin-top: 24.5px;
+}
+
+.invoice-details-container:first-child {
+   margin-top: 0px;
+}
+
+.invoice-details-container4 {
+   flex: 0 0 auto;
+}
+
+.recipient-details-text-style {
+   padding: 0;
+   margin: 0;
+   font: 400 14px Helvetica;
+   color: #2d3748;
+   white-space: pre-wrap;
+}
+
+.invoice-details-style {
+   padding: 0;
+   margin: 0;
+   margin-top: 4px;
+   font: 400 12px Helvetica;
+   color: #a0aec0;
+   white-space: pre-wrap;
+}
+
+.payment-amount-label {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   font: 400 12px Helvetica;
+   color: #a0aec0;
+   white-space: pre-wrap;
+}
+
+.payment-info-container2 {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: center;
+   justify-content: flex-start;
+   margin-left: 15px;
+}
+
+.svg-container10 {
+   display: flex;
+   flex: 0 0 auto;
+   width: 15px;
+   height: 15px;
+   color: #2d3748;
+}
+
+.document-format-style {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   margin-left: 1.5px;
+   font: 400 10px Helvetica;
+   color: #2d3748;
+   white-space: pre-wrap;
+}
+
+.creative-time-blog-license {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: center;
+   padding: 172px 32px 20px;
+   margin-top: -439px;
+}
+
+.creative-time-section {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   align-items: flex-start;
+   justify-content: flex-end;
+}
+
+.invoice-details-container2 {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 900px;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: flex-start;
+   padding: 28px 20px 22px;
+   margin-right: 24px;
+   background: white;
+   border-radius: 20px;
+   box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.05);
+}
+
+.customer-invoice-section {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: column;
+   gap: 24px;
+   align-items: stretch;
+   justify-content: flex-start;
+   padding-right: 2.5px;
+   padding-left: 2.5px;
+   margin-top: 17.5px;
+}
+
+.customer-invoice-layout {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   gap: 8px;
+   align-items: flex-start;
+   justify-content: space-between;
+   padding: 26px 14px 8px 26px;
+   background: #f8f9fa;
+   border-radius: 8px;
+}
+
+.customer-details-text-style1 {
+   padding: 0;
+   margin: 0;
+   font: 400 14px Helvetica;
+   color: #718096;
+   white-space: pre-wrap;
+}
+
+.customer-details-text-style {
+   padding: 0;
+   margin: 0;
+   margin-top: 6.5px;
+   font: 400 12px/18px Helvetica;
+   color: #a0aec0;
+   text-align: left;
+   white-space: pre-wrap;
+}
+
+.svg-container11 {
+   display: flex;
+   flex: 0 0 auto;
+   width: 9px;
+   height: 11.5px;
+   color: #e53e3e;
+}
+
+.action-label-container {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   margin-left: 5.75px;
+   font: 400 10px Helvetica;
+   color: #e53e3e;
+   white-space: pre-wrap;
+}
+
+.svg-container12 {
+   display: flex;
+   flex: 0 0 auto;
+   width: 10px;
+   height: 10px;
+   margin-left: 12px;
+   color: #2d3748;
+}
+
+.transaction-summary-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 660px;
+   flex-direction: column;
+   align-items: stretch;
+   justify-content: flex-start;
+   padding: 28px 20px 28.5px;
+   background: white;
+   border-radius: 20px;
+   box-shadow: 0px 5px 14px rgba(0, 0, 0, 0.05);
+}
+
+.svg-container13 {
+   display: flex;
+   flex: 0 0 auto;
+   width: 15px;
+   height: 15px;
+}
+
+.date-label {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   margin-left: 5px;
+   font: 400 14px Helvetica;
+   color: #a0aec0;
+}
+
+.transaction-history-widget {
+   flex: 0 0 auto;
+   margin-top: 17.5px;
+}
+
+.yesterday-heading-text-style {
+   padding: 0;
+   margin: 0;
+   font: 400 10px Helvetica;
+   color: #a0aec0;
+}
+
+.transaction-card-view {
+   box-sizing: border-box;
+   width: 100%;
+   margin-top: 17.5px;
+}
+
+.payment-info-container {
+   box-sizing: border-box;
+   display: block;
+   width: 35px;
+   max-width: initial;
+   height: 35px;
+}
+
+.payment-info-container1 {
+   flex: 0 0 auto;
+   margin-left: 13px;
+}
+
+.company-name-style {
+   padding: 0;
+   margin: 0;
+   font: 400 14px Helvetica;
+   color: #2d3748;
+}
+
+.timestamp-label {
+   padding: 0;
+   margin: 0;
+   margin-top: 4px;
+   font: 400 12px Helvetica;
+   color: #a0aec0;
+}
+
+.error-text-bold {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   font: 400 14px Helvetica;
+   color: #e53e3e;
+}
+
+.transaction-item-container {
+   box-sizing: border-box;
+   display: flex;
+   flex-direction: row;
+   gap: 8px;
+   align-items: center;
+   justify-content: space-between;
+   width: 100%;
+   margin-top: 24px;
+}
+
+.green-text-highlight {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   font: 400 14px Helvetica;
+   color: #48bb78;
+}
+
+.transaction-history-list {
+   box-sizing: border-box;
+   width: 100%;
+   margin-top: 26px;
+}
+
+.transaction-details-view {
+   margin-top: 24px;
+}
+
+.transaction-details-container {
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   justify-content: flex-start;
+}
+
+.transaction-amount-text-style {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   font: 400 14px Helvetica;
+   white-space: pre-wrap;
+}
+
+.footer-links-container {
+   box-sizing: border-box;
+   display: flex;
+   flex: 0 0 auto;
+   flex-direction: row;
+   gap: 36px;
+   align-items: center;
+   align-self: flex-end;
+   justify-content: flex-start;
+   margin-top: 20px;
+}
+
+.creative-time-blog-license-style {
+   flex: 0 0 auto;
+   padding: 0;
+   margin: 0;
+   font: 400 12px Helvetica;
+   color: #a0aec0;
+}
+
+
+
+Восстанавливать имена переменных
+
+<div style="display: inline-block; width: 1920px" data-ignore="used only for top most containter width">
+<div class="main-content-container">
+<div class="financial-dashboard-container">
+<div class="page-section-divider">
+<p class="header-subtitle">Страницы&nbsp; /&nbsp; Выставление счетов</p>
+<p class="invoice-heading">Выставление счетов</p>
+</div>
+<div class="financial-summary-container">
+<div class="payment-card-details-container">
+<img src="assets/image_e6bafdf0.png" class="credit-card-image" />
+<div class="payment-details-section">
+<p class="card-number-text-style">7812 2139 0823 XXXX</p>
+<div class="payment-details-container1">
+<div class="payment-details-container">
+<p class="expiration-info">ДЕЙСТВИТЕЛЕН ДО</p>
+<p class="expiration-info-paragraph">05/24</p>
+</div>
+<div class="card-details-container">
+<p class="expiration-info">CVV</p>
+<p class="expiration-info-paragraph">09X</p>
+</div>
+</div>
+</div>
+</div>
+<div class="financial-summary-widget">
+<div class="salary-card">
+<div class="salary-card3">
+<div class="svg-container">...</div>
+</div>
+<div class="salary-card2">
+<div class="salary-card1">
+<div class="salary-info-container">
+<p class="salary-text-display-style">Зарплата</p>
+<p class="interactive-text-with-helvetica-style">Интерактивное принадлежащее</p>
+</div>
+<div class="salary-block">
+<img src="assets/image_888928cc.png" class="horizontal-line-display-style" />
+</div>
+</div>
+<p class="salary-increase-text-style">+ 20.000₽</p>
+</div>
+</div>
+<div class="financial-summary-card">
+<div class="blue-box-widget">
+<div class="svg-container1">...</div>
+</div>
+<div class="salary-card2">
+<div class="salary-card1">
+<div class="salary-info-container">
+<p class="salary-text-display-style">Счет</p>
+<p class="freelance-info-block">Фриланс</p>
+</div>
+<div class="financial-summary-container1">
+<img src="assets/image_489d2d9f.png" class="horizontal-line-display-style" />
+</div>
+</div>
+<p class="salary-increase-text-style">455.00₽</p>
+</div>
+</div>
+</div>
+</div>
+<div class="interactive-panel">
+<div class="card-container-with-text">
+<div class="center-content-with-svg">
+<div class="svg-container2">...</div>
+</div>
+<div class="vertical-centered-container">
+<p class="text-container">Введите здесь...</p>
+<div class="hidden-text-container"></div>
+</div>
+</div>
+<div class="login-button-container">
+<div class="svg-container3">...</div>
+<p class="login-button-text-style">Войти</p>
+</div>
+<div class="svg-container4">...</div>
+<div class="svg-container4">...</div>
+</div>
+</div>
+<div class="account-dashboard-container">
+<div class="dashboard-panel-container">
+<div class="payment-details-container">
+<div class="control-panel-container">
+<div class="control-panel-header">
+<div class="svg-container5">...</div>
+</div>
+<p class="control-panel-heading">Панель управления</p>
+</div>
+<div class="section-title-container1">
+<!-- Repeated elements detected. These are rendered using loops & conditions in the React tab -->
+<div class="section-title-container">
+<div class="svg-container6">...</div>
+<p class="section-title-text-styler">Таблицы</p>
+</div>
+<div class="section-title-container">
+<div class="svg-container6">...</div>
+<p class="section-title-text-styler">Выставление счетов</p>
+</div>
+<div class="section-title-container">
+<div class="svg-container6">...</div>
+<p class="section-title-text-styler">RTL</p>
+</div>
+</div>
+</div>
+<p class="account-pages-title-text-style">СТРАНИЦЫ АККАУНТА</p>
+<div class="section-container">
+<!-- Repeated elements detected. These are rendered using loops & conditions in the React tab -->
+<div class="section-title-container">
+<div class="svg-container6">...</div>
+<p class="section-title-text-styler">Профиль</p>
+</div>
+<div class="section-title-container">
+<div class="svg-container6">...</div>
+<p class="section-title-text-styler">Войти</p>
+</div>
+<div class="section-title-container">
+<div class="svg-container6">...</div>
+<p class="section-title-text-styler">Зарегистрироваться</p>
+</div>
+</div>
+<div class="account-help-section">
+<div class="help-section-container">
+<img src="assets/image_f10deac.png" class="help-section" />
+<p class="help-text-display-style">Нужна помощь?</p>
+</div>
+<div class="header-bar">
+<div class="documentation-container1">
+<div class="documentation-header-container">
+<p class="documentation-title">ДОКУМЕНТАЦИЯ</p>
+</div>
+<div class="documentation-container"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="payment-method-container">
+<div class="payment-method-section">
+<p class="payment-method-label">Способ оплаты</p>
+<div class="payment-method-button-container">
+<div class="documentation-container1">
+<div class="documentation-header-container">
+<p class="header-text-widget">ДОБАВИТЬ</p>
+</div>
+<div class="documentation-container"></div>
+</div>
+</div>
+</div>
+<div class="payment-card-container">
+<div class="card-with-number-digits">
+<div class="svg-container7">...</div>
+<div class="card-number-container">
+<p class="card-number-text-style1">7812 2139 0823 XXXX</p>
+<div class="hidden-text-container"></div>
+</div>
+<div class="svg-container8">...</div>
+</div>
+<div class="credit-card-container">
+<div class="svg-container9">...</div>
+<div class="card-number-container">
+<p class="card-number-text-style1">7812 2139 0823 XXXX</p>
+<div class="hidden-text-container"></div>
+</div>
+<div class="svg-container8">...</div>
+</div>
+</div>
+</div>
+<div class="invoice-card-container">
+<div class="account-summary-container">
+<p class="salary-text-display-style">Счета</p>
+<div class="account-button-container">
+<div class="documentation-container1">
+<div class="documentation-header-container">
+<p class="blue-text-small-sans-serif">ПОСМОТРЕТЬ ВСЕ</p>
+</div>
+<div class="documentation-container"></div>
+</div>
+</div>
+</div>
+<div class="invoice-details-container3">
+<!-- Repeated elements detected. These are rendered using loops & conditions in the React tab -->
+<div class="invoice-details-container invoice-details-container1">
+<div class="invoice-details-container4">
+<p class="recipient-details-text-style">Март, 01, 2020</p>
+<p class="invoice-details-style">#MS-415646</p>
+</div>
+<div class="section-title-container">
+<p class="payment-amount-label">₽180</p>
+<div class="payment-info-container2">
+<div class="svg-container10">...</div>
+<p class="document-format-style">PDF</p>
+</div>
+</div>
+</div>
+<div class="invoice-details-container invoice-details-container1">
+<div class="invoice-details-container4">
+<p class="recipient-details-text-style">Февраль, 10, 2021</p>
+<p class="invoice-details-style">#RV-126749</p>
+</div>
+<div class="section-title-container">
+<p class="payment-amount-label">₽250</p>
+<div class="payment-info-container2">
+<div class="svg-container10">...</div>
+<p class="document-format-style">PDF</p>
+</div>
+</div>
+</div>
+<div class="invoice-details-container invoice-details-container1">
+<div class="invoice-details-container4">
+<p class="recipient-details-text-style">Апрель, 05, 2020</p>
+<p class="invoice-details-style">#FB-212562</p>
+</div>
+<div class="section-title-container">
+<p class="payment-amount-label">₽560</p>
+<div class="payment-info-container2">
+<div class="svg-container10">...</div>
+<p class="document-format-style">PDF</p>
+</div>
+</div>
+</div>
+<div class="invoice-details-container invoice-details-container1">
+<div class="invoice-details-container4">
+<p class="recipient-details-text-style">Июнь, 25, 2019</p>
+<p class="invoice-details-style">#QW-103578</p>
+</div>
+<div class="section-title-container">
+<p class="payment-amount-label">₽120</p>
+<div class="payment-info-container2">
+<div class="svg-container10">...</div>
+<p class="document-format-style">PDF</p>
+</div>
+</div>
+</div>
+<div class="invoice-details-container invoice-details-container1">
+<div class="invoice-details-container4">
+<p class="recipient-details-text-style">Март, 01, 2019</p>
+<p class="invoice-details-style">#AR-803481</p>
+</div>
+<div class="section-title-container">
+<p class="payment-amount-label">₽300</p>
+<div class="payment-info-container2">
+<div class="svg-container10">...</div>
+<p class="document-format-style">PDF</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="creative-time-blog-license">
+<div class="creative-time-section">
+<div class="invoice-details-container2">
+<p class="salary-text-display-style">Информация о выставлении счетов</p>
+<div class="customer-invoice-section">
+<!-- Repeated elements detected. These are rendered using loops & conditions in the React tab -->
+<div class="customer-invoice-layout">
+<div class="invoice-details-container4">
+<p class="customer-details-text-style1">Оливер Лиам</p>
+<p class="customer-details-text-style">Название компании: Викинг Буррито<br />Адрес электронной почты: oliver@burrito.com<br />Номер НДС: FRB1235476</p>
+</div>
+<div class="section-title-container">
+<div class="section-title-container">
+<div class="svg-container11">...</div>
+<p class="action-label-container">УДАЛИТЬ</p>
+</div>
+<div class="svg-container12">...</div>
+</div>
+</div>
+<div class="customer-invoice-layout">
+<div class="invoice-details-container4">
+<p class="customer-details-text-style1">Оливер Лиам</p>
+<p class="customer-details-text-style">Название компании: Викинг Буррито<br />Адрес электронной почты: oliver@burrito.com<br />Номер НДС: FRB1235476</p>
+</div>
+<div class="section-title-container">
+<div class="section-title-container">
+<div class="svg-container11">...</div>
+<p class="action-label-container">УДАЛИТЬ</p>
+</div>
+<div class="svg-container12">...</div>
+</div>
+</div>
+<div class="customer-invoice-layout">
+<div class="invoice-details-container4" style="max-width: 215px; box-sizing: border-box">
+<p class="customer-details-text-style1">Оливер Лиам</p>
+<p class="customer-details-text-style" style="width: 100%; box-sizing: border-box">Название компании: Викинг Буррито<br />Адрес электронной почты: oliver@burrito.com<br />Номер НДС: FRB1235476</p>
+</div>
+<div class="section-title-container">
+<div class="section-title-container">
+<div class="svg-container11">...</div>
+<p class="action-label-container">УДАЛИТЬ</p>
+</div>
+<div class="svg-container12">...</div>
+</div>
+</div>
+</div>
+</div>
+<div class="transaction-summary-container">
+<div class="account-summary-container">
+<p class="salary-text-display-style">Ваши транзакции</p>
+<div class="section-title-container">
+<div class="svg-container13">...</div>
+<p class="date-label">23 - 30 марта 2020 года</p>
+</div>
+</div>
+<div class="transaction-history-widget">
+<p class="yesterday-heading-text-style">САМЫЙ НОВЫЙ</p>
+<div class="transaction-card-view">
+<div class="invoice-details-container">
+<div class="section-title-container">
+<img src="assets/image_6a6e6dcc.png" class="payment-info-container" />
+<div class="payment-info-container1">
+<p class="company-name-style">Яндекс</p>
+<p class="timestamp-label">27 марта 2020 года, в 12:30 часов</p>
+</div>
+</div>
+<p class="error-text-bold">-2500₽</p>
+</div>
+<div class="transaction-item-container">
+<div class="section-title-container">
+<img src="assets/image_83dbbe47.png" class="payment-info-container" />
+<div class="payment-info-container1">
+<p class="company-name-style">Газпром</p>
+<p class="timestamp-label">27 марта 2020 года, в 12:30 часов</p>
+</div>
+</div>
+<p class="green-text-highlight">+2500₽</p>
+</div>
+<div class="transaction-history-list">
+<p class="yesterday-heading-text-style">ВЧЕРА</p>
+<div class="transaction-card-view">
+<!-- Repeated elements detected. These are rendered using loops & conditions in the React tab -->
+<div class="invoice-details-container transaction-details-view">
+<div class="transaction-details-container" style="align-items: flex-start">
+<img class="payment-info-container" src="assets/image_83dbbe47.png" />
+<div class="payment-info-container1">
+<p class="recipient-details-text-style">Страйп</p>
+<p class="invoice-details-style">26 марта 2020 года, в 13:45 часов</p>
+</div>
+</div>
+<p class="transaction-amount-text-style" style="color: #48bb78">+800₽</p>
+</div>
+<div class="invoice-details-container transaction-details-view">
+<div class="transaction-details-container" style="align-items: center">
+<img class="payment-info-container" src="assets/image_83dbbe47.png" />
+<div class="payment-info-container1">
+<p class="recipient-details-text-style">ВК</p>
+<p class="invoice-details-style">26 марта 2020 года, в 12:30 часов</p>
+</div>
+</div>
+<p class="transaction-amount-text-style" style="color: #48bb78">+1700₽</p>
+</div>
+<div class="invoice-details-container transaction-details-view">
+<div class="transaction-details-container" style="align-items: center">
+<img class="payment-info-container" src="assets/image_4526805e.png" />
+<div class="payment-info-container1">
+<p class="recipient-details-text-style">Кион</p>
+<p class="invoice-details-style">26 марта 2020 года, в 05:00 часов</p>
+</div>
+</div>
+<p class="transaction-amount-text-style" style="color: #2d3748">В ожидании</p>
+</div>
+<div class="invoice-details-container transaction-details-view">
+<div class="transaction-details-container" style="align-items: flex-start">
+<img class="payment-info-container" src="assets/image_1189b9d8.png" />
+<div class="payment-info-container1">
+<p class="recipient-details-text-style">Тинькофф</p>
+<p class="invoice-details-style">25 марта 2020 года, в 16:30 часов</p>
+</div>
+</div>
+<p class="transaction-amount-text-style" style="color: #e53e3e">-987₽</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-links-container">
+<p class="creative-time-blog-license-style">Творческое время</p>
+<p class="creative-time-blog-license-style">Блог</p>
+<p class="creative-time-blog-license-style">Лицензия</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
